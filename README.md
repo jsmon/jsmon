@@ -12,6 +12,7 @@ In 2021, I want to contribute to some open source projects (I'm kinda new to ope
 - [ ] [npm/cli](https://github.com/npm/cli)
 - [ ] [npm/node-semver](https://github.com/npm/node-semver)
 - [ ] [expressjs/express](https://github.com/expressjs/express)
+- [ ] [benawad/dogehouse](https://github.com/benawad/dogehouse)
 
 ## What I know
 I am experienced with the following technologies:
