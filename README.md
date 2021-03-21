@@ -3,7 +3,7 @@ I make websites, APIs and other tools with [TypeScript](https://github.com/micro
 
 I prefer backend web development using Node.js and TypeScript because I don't have to worry about CSS (which I'm not great at)
 
-The best project I've made is a to-do list, so I'm definitely doing something wrong.
+The best project I've made is [a to-do list](https://todite.vercel.app/), so I'm definitely doing something wrong.
 
 In 2021, I want to contribute to some open source projects (I'm kinda new to open source), here are some repos I'd like to contribute to:
 - [ ] [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
