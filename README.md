@@ -31,7 +31,7 @@ I am experienced with the following technologies:
 * HTML / CSS
 
 ## Where to find me
-My website: [jsmon.vercel.app](https://jsmon.vercel.app/)  
+My website: [jsmon.dev](https://jsmon.dev/)  
 GitHub: [@jsmon](https://github.com/jsmon)  
 LinkedIn: [James Simon](https://www.linkedin.com/in/james-simon-a19baa206)  
 Twitter: [@jsmondev](https://twitter.com/jsmondev)  
