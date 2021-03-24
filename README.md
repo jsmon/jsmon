@@ -27,6 +27,7 @@ I am experienced with the following technologies:
 * [Express.js](https://github.com/expressjs/express)
 * [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
 * HTML / CSS
+* [Linux](https://github.com/torvalds/linux)
 
 ## Where to find me
 My website: [jsmon.dev](https://jsmon.dev/)  
