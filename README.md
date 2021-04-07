@@ -13,7 +13,7 @@ In 2021, I want to contribute to some open source projects (I'm kinda new to ope
 - [ ] [benawad/dogehouse](https://github.com/benawad/dogehouse)
 
 ## What I know
-I am experienced with the following technologies:
+I have experience with the following technologies:
 * [TypeScript](https://github.com/microsoft/TypeScript)
 * JavaScript
 * [Node.js](https://github.com/nodejs/node)
@@ -28,6 +28,7 @@ I am experienced with the following technologies:
 * [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
 * HTML / CSS
 * [Linux](https://github.com/torvalds/linux)
+* [git](https://github.com/git/git) and [GitHub](https://github.com/) (obviously)
 
 ## Where to find me
 My website: [jsmon.dev](https://jsmon.dev/)  
