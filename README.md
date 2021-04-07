@@ -3,7 +3,7 @@ I make websites, APIs and other tools with [TypeScript](https://github.com/micro
 
 I prefer backend web development using Node.js and TypeScript because I like working with data and not having to worry about how anything looks.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsmon&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsmon&show_icons=true&theme=tokyonight&count_private=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jsmon&theme=tokyonight)
 
 In 2021, I want to contribute to some open source projects (I'm kinda new to open source), here are some repos I'd like to contribute to:
