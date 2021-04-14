@@ -31,7 +31,7 @@ I have experience with the following technologies:
 * [Express.js](https://github.com/expressjs/express)
 * [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
 * HTML / CSS
-* [Linux](https://github.com/torvalds/linux)
+* [Linux](https://github.com/torvalds/linux) (Mostly [Ubuntu](https://ubuntu.com/))
 * [git](https://github.com/git/git) and [GitHub](https://github.com/) (obviously)
 
 ## Where to find me
