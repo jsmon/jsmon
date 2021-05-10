@@ -1,7 +1,7 @@
 # James Simon
 I make websites, APIs and other tools with [TypeScript](https://github.com/microsoft/TypeScript) / JavaScript, [Node.js](https://github.com/nodejs/node), [React.js](https://github.com/facebook/react), [Next.js](https://github.com/vercel/next.js), and more.
 
-I prefer backend web development using Node.js and TypeScript because I like working with data and not having to worry about how anything looks.
+I prefer backend web development using Node.js and TypeScript because I like working with data.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsmon&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/jsmon)  
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jsmon&theme=tokyonight)](https://github.com/jsmon)  
